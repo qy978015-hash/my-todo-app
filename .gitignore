@@ -1,0 +1,12 @@
+# PyInstaller 打包输出
+dist/
+build/
+*.spec
+
+# Python 临时文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 待办数据文件（个人数据，不同步）
+todo.json
