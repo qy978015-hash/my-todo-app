@@ -29,7 +29,7 @@ class TodoApp:
 
         # 创建主窗口
         self.win = tk.Tk()
-        self.win.title("待办事项")
+        self.win.title("我的待办事项 v2")
         self.win.geometry("480x520")
 
         # === 输入区 ===
